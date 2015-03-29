@@ -16,5 +16,5 @@ $pdf->Cell(40,10,"STEVE");
 $pdf->Image('http://chart.googleapis.com/chart?cht=p3&chd=t:60,40&chs=250x100&chl=Hello|World',60,30,90,0,'PNG');
 $pdf->Output();
 
-echo "hello";
+echo "hello"; ////weeeeeeeeeeeeeee
 ?>
